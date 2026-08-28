@@ -11,7 +11,7 @@ export default {
   github_pulls: "https://github.com/bitweb-project/bitweb/pulls",
   github_contributing: "https://github.com/bitweb-project/bitweb/blob/master/CONTRIBUTING.md",
   github_contributors: "https://github.com/bitweb-project/bitweb/graphs/contributors",
-  website_issues: "https://github.com/bitweb-project/bitwebcore.net/issues",
+  website_issues: "https://github.com/bitweb-project/bitwebcore-net/issues",
   guix_sigs: "https://github.com/bitweb-project/guix.sigs",
   builder_keys: "https://github.com/bitweb-project/guix.sigs/tree/main/builder-keys",
   gpg_fingerprint: "23B3D882F805A5D1F0A12A2535A7538B1C816E49",
