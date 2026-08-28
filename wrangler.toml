@@ -1,0 +1,8 @@
+name = "bitwebcore-net"
+compatibility_date = "2026-08-01"
+
+[build]
+command = "npm run build"
+
+[assets]
+directory = "./docs"
